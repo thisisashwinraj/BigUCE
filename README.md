@@ -5,7 +5,7 @@
 ## Usage
 Try saying to your Google Assistant `Talk to UCEK Guide` to Google Assistant.
 
-## Supported Actions(tentative)
+## Supported Actions
 - Teaching Staff
 - Timetable
 - Holiday Schedule
