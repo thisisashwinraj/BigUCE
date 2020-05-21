@@ -1,74 +1,75 @@
 [
   {
-    "value": "BHR",
+    "value": "UCK",
     "synonyms": [
-      "BHR",
-      "Brahmaputra Hall of Residence"
+      "UCK",
+      "University College of Engineering Kariavattom",
+      "University Colege of Engineering"
     ]
   },
   {
-    "value": "GHR",
+    "value": "UGR",
     "synonyms": [
-      "GHR",
-      "Ganga Hall of Residence"
+      "Ground",
+      "University Ground"
     ]
   },
   {
-    "value": "LBC",
+    "value": "KYPO",
     "synonyms": [
-      "First Years LAb Complex",
-      "First year lbc",
-      "LBC",
-      "Lab Complex"
+      "Karyavattom Post office",
+      "Post Office",
+      "Kariavattom Post Office",
+      "PO"
     ]
   },
   {
-    "value": "MHR",
+    "value": "KUSO",
     "synonyms": [
-      "MHR",
-      "Mahanadi Hall of Residence"
+      "KUSO",
+      "Karyavattom University Security Office"
     ]
   },
   {
-    "value": "SBS",
+    "value": "LIB",
     "synonyms": [
-      "SBS",
-      "School of Basic Sciences"
+      "Library",
+      "College Library"
     ]
   },
   {
-    "value": "SEOCS",
+    "value": "DCS",
     "synonyms": [
-      "SEOCS",
-      "School of Earth, Ocean and Climate Sciences"
+      "CS Department",
+      "department of computer science"
     ]
   },
   {
-    "value": "SES",
+    "value": "CC",
     "synonyms": [
-      "SES",
-      "School of electrical Sciences"
+      "College Canteen",
+      "Canteen"
     ]
   },
   {
-    "value": "SHR",
+    "value": "POND",
     "synonyms": [
-      "SHR",
-      "Subarnarekha Hall of Residence"
+      "Haimavathy Lake",
+      "Haimavathy"
     ]
   },
   {
-    "value": "SIF",
+    "value": "ATM",
     "synonyms": [
-      "SIF",
-      "School of Infrastructure"
+      "ATM",
+      "SBI ATM"
     ]
   },
   {
-    "value": "SMS",
+    "value": "VBG",
     "synonyms": [
-      "SMS",
-      "School of Mechanica Sciences"
+      "Volleyball ground",
+      "VBG"
     ]
   }
 ]
