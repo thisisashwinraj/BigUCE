@@ -6,8 +6,7 @@
 Try saying to your Google Assistant `Talk to UCEK Guide` to Google Assistant.
 
 ## Supported Actions
-- Teaching Staff
-- Timetable
+- Faculty Details
 - Holiday Schedule
 - Mid/End Semester Exam schedule
 - Upcoming institute events
@@ -23,4 +22,4 @@ git clone https://github.com/ashwinraj-in/ucekguide
 - [Ashwin Raj](https://github.com/ashwinraj-in/)
 
 ## LICENSE
-MIT License
+ The action is distributed under the MIT License
