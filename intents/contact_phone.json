@@ -1,0 +1,50 @@
+{
+  "id": "b67d0c51-3ef7-4c7e-a004-76d21a39e603",
+  "name": "contact_phone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "phone",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1f5f3002-692a-4294-826e-5e74b6e3198b",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "phone",
+          "value": "$phone",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Please reach us through +91 471 2308874 or +91 471 2418045",
+            "Please call us on +91 471 2308874 or +91 471 2418045",
+            "Try calling +91 471 2308874 or +91 471 2418045",
+            "You can contact us by dialing +91 471 2308874 or +91 471 2418045"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

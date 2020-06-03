@@ -1,0 +1,44 @@
+{
+  "id": "895c0add-60f4-43cc-91f6-530f196ddbd7",
+  "name": "hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15a0430f-c9ba-4def-a267-f7d8a80b2f2a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "hod",
+          "value": "$hod",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The HOD\u0027s of CSE, ECE and IT department are Mrs Divya D T, Mrs. Indusalini G and Mrs. Sangeetha S Nair respectively"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

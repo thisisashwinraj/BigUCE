@@ -1,0 +1,44 @@
+{
+  "id": "a5b02b82-5233-4209-aa4a-ce18acd175cd",
+  "name": "library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "115524a7-d54a-46a3-acf5-20fc296400ae",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "lib",
+          "value": "$lib",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The college has a well maintained library within the campus with a wide array of academic books, 40 plus journals and daily newspapers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

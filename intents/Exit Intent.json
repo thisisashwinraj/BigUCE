@@ -1,0 +1,53 @@
+{
+  "id": "1da10bf1-874f-43bc-b7e1-7549d03dc770",
+  "name": "Exit Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "exit-Conversation",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b4817770-143e-42bf-9707-f11701d9d7e4",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "exit",
+          "value": "$exit",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Bye, have a good day",
+            "Hope you enjoyed using me",
+            "Nice talking to you",
+            "Thanks, have a nice day",
+            "Okay, see you later",
+            "Hope you were satisfied",
+            "I would like to hear from you again"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

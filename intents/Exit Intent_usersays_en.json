@@ -1,0 +1,166 @@
+[
+  {
+    "id": "b36c8899-f020-4104-ad8a-ea7fd7faa8cf",
+    "data": [
+      {
+        "text": "Quit",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0fd6666-c956-4a20-9a3f-210ac52c8f8b",
+    "data": [
+      {
+        "text": "Get lost",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f59f88a-2c72-4b4b-ab80-bf3e142540d8",
+    "data": [
+      {
+        "text": "Nice talking to you",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ebe62ca-7bf6-411d-b1f9-0a566a60cd34",
+    "data": [
+      {
+        "text": "ok ",
+        "userDefined": false
+      },
+      {
+        "text": "bye",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57bc8c80-5275-4795-9a86-9290def3e979",
+    "data": [
+      {
+        "text": "tata",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb49bb76-226a-43c9-83d9-6116fa87d11d",
+    "data": [
+      {
+        "text": "Good Bye",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ad50f45-ecda-42f8-9440-56d55edd2812",
+    "data": [
+      {
+        "text": "Bye",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71e796b2-8564-4e9b-b2d4-170d0aee4a75",
+    "data": [
+      {
+        "text": "I give up",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d2bdc32-3519-4aff-bc2d-7da9aa232d9f",
+    "data": [
+      {
+        "text": "Can you ",
+        "userDefined": false
+      },
+      {
+        "text": "shut down",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea2f021b-32e3-4668-b189-bfcb03beb3ac",
+    "data": [
+      {
+        "text": "You are ",
+        "userDefined": false
+      },
+      {
+        "text": "hopeless",
+        "alias": "exit",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1243585-96d8-400a-8b37-c83df80d9772",
+    "data": [
+      {
+        "text": "Go to hell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

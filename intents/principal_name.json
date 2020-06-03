@@ -1,0 +1,48 @@
+{
+  "id": "b9260e32-6b07-4915-8c4f-5708940d271f",
+  "name": "principal_name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "principal",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8973aa41-242b-41b3-bc97-39cd23193a50",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "principal",
+          "value": "$principal",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "The principal of UCEK is Mrs. Bisharathu Beevi A.  Is there anything else?",
+            "Mrs. Bisharathu Beevi A  is the principal of UCEK.  Is there anything else?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

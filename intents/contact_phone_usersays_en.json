@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1f2eb55c-9219-4458-934f-3c040bd7d560",
+    "data": [
+      {
+        "text": "Give me the office ",
+        "userDefined": false
+      },
+      {
+        "text": "contact number",
+        "alias": "phone",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8221f182-afa0-4de5-a646-89c3d7fc2f0f",
+    "data": [
+      {
+        "text": "Tell me your ",
+        "userDefined": false
+      },
+      {
+        "text": "phone number",
+        "alias": "phone",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d76cea90-6dd3-4415-bdb2-7de2747ac1e0",
+    "data": [
+      {
+        "text": "What is the college ",
+        "userDefined": false
+      },
+      {
+        "text": "phone number",
+        "alias": "phone",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "555de0d9-60d9-41f9-b488-7ba231960d33",
+    "data": [
+      {
+        "text": "How to get in ",
+        "userDefined": false
+      },
+      {
+        "text": "contact",
+        "alias": "phone",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " with the college office",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90975ee9-dd16-40b1-bed5-610ca14e10f5",
+    "data": [
+      {
+        "text": "How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "call",
+        "alias": "phone",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "  the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b57014-a4be-4497-ba7e-ac618e8acf62",
+    "data": [
+      {
+        "text": "Whats your ",
+        "userDefined": false
+      },
+      {
+        "text": "phone number",
+        "alias": "phone",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

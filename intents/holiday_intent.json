@@ -1,0 +1,44 @@
+{
+  "id": "de44a819-2fce-47fa-abc1-3bc87bf37a1a",
+  "name": "holiday_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ecc91388-8e1d-4ecb-8104-f5c7ac84b227",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "holidays",
+          "value": "$holidays",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Holiday schedule has been disrupted due to Covid 19 pandemic. New semesters will be starting in August. Is there anything else I can help you with ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
