@@ -1,0 +1,53 @@
+{
+  "id": "0b4edbe8-a25b-47e7-8c95-a9f833a0a720",
+  "name": "clubs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "club",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be90c1d0-9b70-41dc-9bf3-a815be981684",
+          "name": "club",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "value": "$club",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The institute has an active Developers Student Club. You can contact the lead or the concerned faculty advisors to join the club or follow their social media handles for updates on upcoming events. Also there are other clubs including IEDC and CSIEC. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

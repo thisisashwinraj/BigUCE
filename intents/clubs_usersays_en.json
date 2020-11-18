@@ -1,0 +1,189 @@
+[
+  {
+    "id": "18479882-b368-4087-b5d6-57d3a28ec92a",
+    "data": [
+      {
+        "text": "what are some ",
+        "userDefined": false
+      },
+      {
+        "text": "clubs",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2732d0c-5c4f-4dcd-a32e-af8a7c11d9e8",
+    "data": [
+      {
+        "text": "show me the list of ",
+        "userDefined": false
+      },
+      {
+        "text": "clubs",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f15e67b-640f-42c1-b4f6-fc03c8c26340",
+    "data": [
+      {
+        "text": "does the college has any technical ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81c18999-d06c-48de-a6e0-aee4e02100d1",
+    "data": [
+      {
+        "text": "which ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      },
+      {
+        "text": " to join",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9cf7ca0-cba1-4ad0-a134-557a61125548",
+    "data": [
+      {
+        "text": "names of ",
+        "userDefined": false
+      },
+      {
+        "text": "clubs",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55557cbb-0d75-44e4-96a1-c8277554667a",
+    "data": [
+      {
+        "text": "is there any tech ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      },
+      {
+        "text": " in the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "098f4e58-aba4-41e6-924e-f3526fbdb42c",
+    "data": [
+      {
+        "text": "what are the various ",
+        "userDefined": false
+      },
+      {
+        "text": "clubs",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      },
+      {
+        "text": " present in the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aefc812a-f6ce-458a-88d9-240a3fb317c7",
+    "data": [
+      {
+        "text": "does the college have any ",
+        "userDefined": false
+      },
+      {
+        "text": "clubs",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2852314-a757-4db6-b073-922b6f93ee66",
+    "data": [
+      {
+        "text": "what are the various ",
+        "userDefined": false
+      },
+      {
+        "text": "clubs",
+        "meta": "@sys.given-name",
+        "alias": "club",
+        "userDefined": true
+      },
+      {
+        "text": " in the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
