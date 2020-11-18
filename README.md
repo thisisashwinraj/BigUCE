@@ -2,12 +2,12 @@
 # Big UCE: Google Action
 Big UCE is a Google Action built by incorporating text-based interactions, developed to help guide students at the campus. The currently deployed action is version 8.0. Latest update included bug fixes and addition of newer actions. The action is powered with Dialogflow and supports more than half a dozen actions.
 
-The repository and the deployed google action are maintained by [Ashwin Raj](https://github.com/ashwinraj-in/) and distributed under the MIT License.
+The repository and the deployed assistant action on google are maintained by [Ashwin Raj](https://github.com/ashwinraj-in/) and distributed under the MIT License.
 
-# Usage and Supported Actions
-Try saying to your Google Assistant `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invoke the action. The action is included in the category of Education & Reference and is available for users in all 215 countries. The action is set to match the user's language settings.
+# Usage and Privacy Policy
+Try saying  `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invoke the action. The action is included in the category of Education & Reference and is available for users in all 215 countries. The action is set to match the user's language settings. As per the privacy policy, the user data is totally secure and no maintainer has any access over the messages the user may send to the action or the responses that it sends back. The action also does not require any account linking or login information.
 
-The action does not require any account linking or login information.
+Usage data such as information regarding how many users are using the app, which geographical regions they are located in, and basic data including users’ language, device type, and length and frequency of use can be accessed and used to make the action better and add features. When you use the Big UCE, you are also using the Google Assistant, and the Google Privacy Policy describes how Google collects and uses data about your use of the app. You may wish to consult Google’s documentation regarding what information is shared with your Google Assistant and how to delete your Google Assistant activity. 
 
 ### Supported Actions
 - Faculty Details
