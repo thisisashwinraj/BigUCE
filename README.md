@@ -7,7 +7,7 @@ The repository and the deployed google action are maintained by [Ashwin Raj](htt
 # Usage and Supported Actions
 Try saying to your Google Assistant `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invoke the action. The action is included in the category of Education & Reference and is available for users in all 215 countries. The action is set to match the user's language settings.
 
-The action does not require any account linking or login information
+The action does not require any account linking or login information.
 
 ### Supported Actions
 - Faculty Details
