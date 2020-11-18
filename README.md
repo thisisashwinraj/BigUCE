@@ -2,7 +2,7 @@
 # Big UCE: Google Action
 Big UCE is a Google Action built by incorporating text-based interactions, developed to help guide students at campus. The currently deployed action is version 8.0. Latest update included bug fixes and addition of newer actions. The action is powered with Dialogflow and supports more than half a dozen actions.
 
-The repository and the deployed google action are maintained by [Ashwin Raj](https://github.com/ashwinraj-in/) and are distributed under the MIT License.
+The repository and the deployed google action are maintained by [Ashwin Raj](https://github.com/ashwinraj-in/) and distributed under the MIT License.
 
 # Usage and Supported Actions
 Try saying to your Google Assistant `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invoke the action. The action is included in the category of Education & Reference and is available for users in all 215 countries. The action is set to match the user's language settings.
@@ -41,4 +41,4 @@ git clone https://github.com/ashwinraj-in/ucekguide
 Go to action Console and select Custom intent. Import the code into DialogFlow. Make the necessary changes, test the action on the simulator, download the ZIP file and make a pull request on this repository.
 
 ## License and Project Status
-The action package and other resources for developing this assistant action are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be made by increasing the number of training phases to facilitate the NLU process and adding cloud functions and/or enabling webhook(if required).
+The action package and other resources for developing this assistant action are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be made by increasing the number of training phases to facilitate the NLU process and adding cloud functions and/or enabling webhook.
