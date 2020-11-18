@@ -1,16 +1,17 @@
 
-# Google Action for University College of Engineering, Kariavattom
+# Big UCE 
 
 
 ## Usage
-Try saying to your Google Assistant `Talk to UCEK Guide` to Google Assistant.
+Try saying to your Google Assistant `Talk to Big UCE` to Google Assistant.
 
-The currently deployed action is version 4.0. Last update included some bug fixes and addition of newer actions.
+The currently deployed action is version 8.0. Latest update included bug fixes and addition of newer actions.
 
 ## Supported Actions
 - Faculty Details
 - Holiday Schedule
 - Mid/End Semester Exam schedule
+- Club Details
 - Upcoming institute events
 - Library Details
 - College Contacts
