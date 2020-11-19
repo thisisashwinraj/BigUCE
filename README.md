@@ -36,7 +36,7 @@ At no point does the action leaves the mic open without prompting the user to re
 # Contributing
 New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the project has been included in this README file. For major changes, it is recommended that you open an issue first to discuss what you would like to change. To contribute to this project, download the existing code to your local system
 ```
-git clone https://github.com/ashwinraj-in/ucekguide
+git clone https://github.com/ashwinraj-in/BigUCE
 ```
 Go to Action Console and select Custom intent. Import the code into DialogFlow. Make the necessary changes, test the action on the simulator, download the ZIP file and make a pull request on this repository.
 
