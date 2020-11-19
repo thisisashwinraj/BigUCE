@@ -22,7 +22,7 @@ Usage data such as information regarding how many users are using the app, which
 actions.intent.MAIN is invoked when the user requests action by invocation names. It integrates actions from Dialogflow of the conversational fullfillment type. The image corner style is set as angled and primary texts in action cards such as card titles uses default typography settings.
 
 ### Supported Devices
-Based on the capibilities that are specified, the action will trigger for users on the following surfaces:
+Google actions can be invoked on a wide array of platforms. Based on the capibilities that are specified, the action will trigger for users on the following surfaces:
 - Android 6.0+ watches
 - Android 6.0+ TVs
 - Google Home
