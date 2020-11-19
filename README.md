@@ -19,9 +19,10 @@ Try saying  `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invok
 Usage data such as information regarding how many users are using the app, which geographical regions they are located in, and basic data including users’ language, device type, and length and frequency of use can be accessed and used to make the action better and add features. When you use the Big UCE, you are also using the Google Assistant, and the Google Privacy Policy describes how Google collects and uses data about your use of the app. You may wish to consult Google’s documentation regarding what information is shared with your Google Assistant and how to delete your Google Assistant activity. 
 
 # Development and Dependencies
-actions.intent.MAIN is invoked when the user requests action by invocation names. It integrates actions from Dialogflow and is of the conversational fullfillment type. The image corner style is set as angled and primary texts in action cards such as card titles uses default typography settings.
+actions.intent.MAIN is invoked when the user requests action by invocation names. It integrates actions from Dialogflow of the conversational fullfillment type. The image corner style is set as angled and primary texts in action cards such as card titles uses default typography settings.
 
 ### Supported Devices
+Based on the capibilities that are specified, the action will trigger for users on the following surfaces:
 - Android 6.0+ watches
 - Android 6.0+ TVs
 - Google Home
