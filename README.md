@@ -14,7 +14,7 @@ Try saying  `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invok
 - Club Details
 - Upcoming institute events
 - Library Details
-- College Contacts
+- Contact Details
 
 Usage data such as information regarding how many users are using the app, which geographical regions they are located in, and basic data including users’ language, device type, and length and frequency of use can be accessed and used to make the action better and add features. When you use the Big UCE, you are also using the Google Assistant, and the Google Privacy Policy describes how Google collects and uses data about your use of the app. You may wish to consult Google’s documentation regarding what information is shared with your Google Assistant and how to delete your Google Assistant activity. 
 
