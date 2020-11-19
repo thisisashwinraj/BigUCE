@@ -5,7 +5,7 @@ Big UCE is a Google Action built by incorporating text-based interactions, devel
 The repository and the deployed assistant action on google are maintained by [Ashwin Raj](https://github.com/ashwinraj-in/).
 
 # Usage and Privacy Policy
-Try saying  `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invoke the action. The action is included in the category of Education & Reference and is available for users in all 215 countries. The action is set to match the user's language settings. As per the privacy policy, the user data is totally secure and no maintainer has any access over the messages the user may send to the action or the responses that it sends back. The action also does not require any account linking or login information.
+Try saying  `Talk to Big UCE` or `Speak to Big UCE` to Google Assistant to invoke the action. The action is included in the category of Education & Reference and is available for users in all 215 countries. The action is set to match the user's language settings. As per the privacy policy, the user data is totally secure and no maintainer has any access over the messages the user may send to the action or the responses that it sends back. The action also does not require the user to provide any account linking or login information.
 
 ### Supported Actions
 - Faculty Details
