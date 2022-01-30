@@ -42,4 +42,4 @@ git clone https://github.com/ashwinraj-in/BigUCE
 Go to Action Console and select Custom intent. Import the code into DialogFlow. Make the necessary changes, test the action on the simulator, download the ZIP file and make a pull request on this repository.
 
 ## License and Project Status
-The action package and other resources for developing this assistant action are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be made by increasing the number of training phases to facilitate the NLU process and adding cloud functions and/or enabling webhook.
+The action package and other resources for developing this assistant action are distributed under [MIT license](https://github.com/ashwinraj-in/BigUCE/blob/master/LICENSE). The project is completed and all the files are available in this repository. Further improvements can be made by increasing the number of training phases to facilitate the NLU process and adding cloud functions and/or enabling webhook.
